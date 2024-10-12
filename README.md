@@ -11,4 +11,4 @@ Dataset: [Jingju Music Scores Collection](https://zenodo.org/records/3233843)
 
 Presentation: [Research on Melodic Intervals in Vocal Parts of Jingju.pdf](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/Research%20on%20Melodic%20Intervals%20in%20Vocal%20Parts%20of%20Jingju.pdf)  
 Paper: [A STUDY ON SMALL MELODIC MOTIVES IN VOCAL PARTS OF JINGJU.pdf](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/A%20STUDY%20ON%20SMALL%20MELODIC%20MOTIVES%20IN%20VOCAL%20PARTS%20OF%20JINGJU.pdf)  
-[Code](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/AMPLab_projectM2_BettyYuxi.ipynb)
+Code: [AMPLab_projectM2_BettyYuxi.ipynb](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/AMPLab_projectM2_BettyYuxi.ipynb)
