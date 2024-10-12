@@ -8,4 +8,7 @@ In this project we aim at analyzing the most frequent melodic contours in Jingju
 The idea is to count the intervals formed by three consecutive notes in the vocal part within each syllable.  
 
 Dataset: [Jingju Music Scores Collection](https://zenodo.org/records/3233843)  
+
 [Presentation](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/Presentation.pdf)
+[Paper](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/Research_on_Melodic_Intervals_in_Vocal_Parts_of_Jingju.pdf)
+[ipynb code](https://github.com/qiaoyx3170/Jingju-Melodic-Intervals/blob/main/AMPLab_projectM2_BettyYuxi.ipynb)
